@@ -1,16 +1,21 @@
 _repo: Siebeneichen-Roman-aus-dem-Alt-Mei0xdfner-Land_58342
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Windisch, Josef
     gutenberg_agent_id: '48803'
     url: http://www.gutenberg.org/2009/agents/48803
+covers:
+- cover_type: archival
+  image_path: 58342-h/images/cover.jpg
 creator:
   author:
     agent_name: Hildebrand, Gustav
     gutenberg_agent_id: '48802'
     url: http://www.gutenberg.org/2009/agents/48802
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58342#Siebeneichen-Roman-aus-dem-Alt-Mei0xdfner-Land
 gutenberg_issued: '2018-11-24'
 gutenberg_type: Text
 identifiers:
